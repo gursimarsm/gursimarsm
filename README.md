@@ -7,8 +7,6 @@
 Bio:
     Name: "Gursimar Singh"
     Role: "Consultant", "Google Developers Educator", "Author @ freeCodeCamp.org"
-    Education: "Computer Science Engineering"
-    Location: "Hyderabad, Telangana, India"
     Fun Fact: "Speaker, Avid Blogger & Photographer"
     
 ```
